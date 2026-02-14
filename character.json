@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Naruto Uzumaki",
+    "village": "Hidden Leaf",
+    "jutsu": "Rasengan",
+    "image": "assets/Naruto.jpeg"
+  },
+  {
+    "name": "Hinata Hyuga",
+    "village": "Hidden Leaf",
+    "jutsu": "Gentle Fist",
+    "image": "assets/Hinata.JPG"
+  },
+
+  {
+    "name": "Shikamaru Nara",
+    "village": "Hidden Leaf",
+    "jutsu": "Shadow Possession Jutsu",
+    "image": "assets/Shikamaru.png"
+  },
+  {
+    "name": "Kisame Hoshigaki",
+    "village": "Akatsuki",
+    "jutsu": "Water Prison Shark Dance",
+    "image": "assets/Kisame.JPG"
+  },
+  {
+    "name": "Jiraya",
+    "village": "Hidden Leaf",
+    "jutsu": "Sage Mode",
+    "image": "assets/Jiraya.jpeg"
+  },
+
+  {
+    "name": "Tsunade Senju",
+    "village": "Hidden Leaf",
+    "jutsu": "Strength of a Hundred Seal",
+    "image": "assets/Tsunade.jpeg"
+  },
+  {
+    "name": "Minato Namikaze",
+    "village": "Hidden Leaf",
+    "jutsu": "Flying Raijin",
+    "image": "assets/Minato.jpeg"
+  },
+  {
+    "name": "Madara Uchiha",
+    "village": "Uchiha Clan",
+    "jutsu": "Susanoo, Rinnegan Techniques",
+    "image": "assets/Madara.jpeg"
+  },
+
+  {
+    "name": "Konan",
+    "village": "Akatsuki",
+    "jutsu": "Paper Style",
+    "image": "assets/Konan.jpeg"
+  },
+  {
+    "name": "Pain",
+    "village": "Akatsuki",
+    "jutsu": "Shinra Tensei",
+    "image": "assets/Pain.jpeg"
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "village": "Hidden Leaf",
+    "jutsu": "Chidori",
+    "image": "assets/Sasuke.jpeg"
+  },
+  {
+    "name": "Kakashi Hatake",
+    "village": "Hidden Leaf",
+    "jutsu": "Kamui",
+    "image": "assets/Kakashi.jpeg"
+  },
+  {
+    "name": "Gaara",
+    "village": "Hidden Sand",
+    "jutsu": "Sand Coffin",
+    "image": "assets/Gaara.jpeg"
+  },
+  {
+    "name": "Hidan",
+    "village": "Akatsuki",
+    "jutsu": "Jashin Ritual Curse Technique",
+    "image": "assets/Hidan.jpeg"
+  },
+  {
+    "name": "Kakuzu",
+    "village": "Akatsuki",
+    "jutsu": "Earth Grudge Fear",
+    "image": "assets/Kakuzu.jpeg"
+  },
+  {
+    "name": "Orochimaru",
+    "village": "Sound",
+    "jutsu": "Snake Summoning",
+    "image": "assets/Orochimaru.jpeg"
+  },
+  {
+    "name": "Tobi",
+    "village": "Akatsuki",
+    "jutsu": "Kamui Intangibility",
+    "image": "assets/Tobi.jpeg"
+  },
+  {
+    "name": "Deidara",
+    "village": "Akatsuki",
+    "jutsu": "Explosive Clay",
+    "image": "assets/Deidara.jpeg"
+  }
+]
